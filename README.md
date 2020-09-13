@@ -18,10 +18,10 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-**Talking about Personal Stuffs:**
+-Talking about Personal Stuffs:-
 
 - 🤔 My interests are with Java, Python, JavaScript, HTML, Css, C, C++;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via bhushanjoshi346@gmail.com to reach me.
 
